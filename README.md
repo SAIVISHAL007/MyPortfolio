@@ -2,7 +2,7 @@
 This is my personal portfolio....
 ----
 ## Home page
-[Home](index.png)
+![Home](index.png)
 
 ----
 
